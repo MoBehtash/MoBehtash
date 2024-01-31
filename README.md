@@ -39,4 +39,4 @@
 <h2> 🤳 Connect with me:</h2>
 <!-- ======================================================== -->
 
-Linkedin: https://www.linkedin.com/in/mobehtash/
+[Linkedin](https://www.linkedin.com/in/mobehtash/), [Google Scholar](https://scholar.google.com/citations?user=WVyEea4AAAAJ&hl=en)
