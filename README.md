@@ -24,15 +24,10 @@
 <h2>:books: Select Peer-Reviewed Research Publications: </h2>
 <!-- ======================================================== -->
 
-- <b> Electric Vehicle Powertrain Design </b>
-
-  - [PHEV Powertrain Design and Control Optimization](https://link.springer.com/article/10.1007/s00158-019-02264-0)
-  - [Large-Scale Dynamic System Design and Control Optimizaton](https://doi.org/10.1115/1.4046240)
-
-- <b> Reliability-Based Design of Dynamic Sysmtems </b>
-
-  - [Simulation-Based Control Co-Design Using Generalized Polynomial Chaos Expansion](https://doi.org/10.1115/1.4052906)
-  - [A Comparitive Study Between Reliability-Based Formulations of Control Co-Design](https://doi.org/10.1115/1.4064567)
+  - [PHEV Powertrain Design and Control Considering Vehicle Performance Metrics](https://link.springer.com/article/10.1007/s00158-019-02264-0)
+  - [Design and Control Optimization of a PHEV Powertrain System using Decomposition Methods](https://doi.org/10.1115/1.4046240)
+  - [Design and Control of a Vehicle Suspension System Considering System Reliability](https://doi.org/10.1115/1.4052906)
+  - [A Comparitive Study Between Reliability-Based Formulations for Dynamic System Design](https://doi.org/10.1115/1.4064567)
 
 
 <!-- ======================================================== -->
