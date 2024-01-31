@@ -25,8 +25,8 @@
 <!-- ======================================================== -->
 
   - [PHEV Powertrain Design and Control Considering Vehicle Performance Metrics](https://link.springer.com/article/10.1007/s00158-019-02264-0)
-  - [Design and Control Optimization of a PHEV Powertrain System using Decomposition Methods](https://doi.org/10.1115/1.4046240)
-  - [Design and Control of a Vehicle Suspension System Considering System Reliability](https://doi.org/10.1115/1.4052906)
+  - [Decomposition-Based Dynamic System Design: A Case Study of a PHEV Powertrain System](https://doi.org/10.1115/1.4046240)
+  - [Reliability-Based Dynamic System Design: A Case Study of a Vehicle Suspension System](https://doi.org/10.1115/1.4052906)
   - [A Comparitive Study Between Reliability-Based Formulations for Dynamic System Design](https://doi.org/10.1115/1.4064567)
 
 
