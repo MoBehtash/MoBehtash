@@ -5,9 +5,9 @@
 <!-- ======================================================== -->
 <h2>:car: Vehicle Dynamics Projects:</h2>
 
-- <b>A Simple Quarter-Car Suspension Analysis</b>
+- <b>A Simple Quarter-Car Suspension Time Domain Analysis</b>
 
-- <b>A Simple Handling Analysis </b>
+- <b>A Simple Quarter-Car Suspension Frequency Domain Analysis</b>
 
 
 <!-- ======================================================== -->
