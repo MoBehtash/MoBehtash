@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1>Hi, I'm Mo! <br/> <a href = "https://github.com/MoBehtash/MoBehtash"> Mechanical Engineer </a>,
+                      <a href = "https://github.com/MoBehtash/MoBehtash"> Vehicle Dynamics Specialist </a>,
+                      <a href = "https://github.com/MoBehtash/MoBehtash"> Design & Control Optimization Researcher </a> </h1>
 
-<!--
-**MoBehtash/MoBehtash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ======================================================== -->
+<h2>:car: Vehicle Dynamics Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>A Simple Quarter-Car Suspension Analysis</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>A Simple Handling Analysis </b>
+
+
+<!-- ======================================================== -->
+<h2>:chart_with_downwards_trend: Control Co-Design Projects: </h2>
+
+- <b>Active Suspension Design and Control Optimization</b>
+
+- <b>An Autonomous Electric Vehicle Design and Control Optimization </b>
+
+
+<!-- ======================================================== -->
+<h2> 🤳 Connect with me:</h2>
+Linkedin: https://www.linkedin.com/in/mobehtash/
