@@ -21,7 +21,7 @@
 
 
 <!-- ======================================================== -->
-<h2>:books: Peer-Reviewed Research Publications: </h2>
+<h2>:books: Select Peer-Reviewed Research Publications: </h2>
 <!-- ======================================================== -->
 
 - <b> Electric Vehicle Powertrain Design </b>
