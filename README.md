@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mo! <br/> <a href = "https://github.com/MoBehtash"> Mechanical Engineer </a>,
                       <a href = "https://github.com/MoBehtash"> Vehicle Dynamics Specialist </a>,
-                      <a href = "https://github.com/MoBehtash"> Design & Control Optimization Researcher </a> </h1>
+                      <a href = "https://github.com/MoBehtash"> Dynamic System Design Researcher </a> </h1>
 
 <!-- ======================================================== -->
 <h2>:car: Vehicle Dynamics Projects:</h2>
