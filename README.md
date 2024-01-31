@@ -21,15 +21,15 @@
 
 
 <!-- ======================================================== -->
-<h2>:chart_with_downwards_trend: Peer-Reviewed Research Publications: </h2>
+<h2>:books: Peer-Reviewed Research Publications: </h2>
 <!-- ======================================================== -->
 
-- <b> Electric Vehicle Powertrain </b>
+- <b> Electric Vehicle Powertrain Design </b>
 
   - [PHEV Powertrain Design and Control Optimization](https://link.springer.com/article/10.1007/s00158-019-02264-0)
   - [Large-Scale Dynamic System Design and Control Optimizaton](https://doi.org/10.1115/1.4046240)
 
-- <b> Reliability-Based Design and Control </b>
+- <b> Reliability-Based Design of Dynamic Sysmtems </b>
 
   - [Simulation-Based Control Co-Design Using Generalized Polynomial Chaos Expansion](https://doi.org/10.1115/1.4052906)
   - [A Comparitive Study Between Reliability-Based Formulations of Control Co-Design](https://doi.org/10.1115/1.4064567)
