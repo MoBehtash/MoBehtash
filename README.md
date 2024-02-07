@@ -6,7 +6,7 @@
 <h2>:car: Vehicle Dynamics Projects:</h2>
 <!-- ======================================================== -->
 
-- <b>A Simple Quarter-Car Suspension Time Domain Analysis</b>
+- <b>Time- and Frequency-Domain Analysis of a Quarter-Car Suspension Model</b>
 
 - <b>A Simple Quarter-Car Suspension Frequency Domain Analysis</b>
 
