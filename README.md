@@ -8,8 +8,6 @@
 
 - <b>Time- and Frequency-Domain Analysis of a Quarter-Car Suspension Model</b>
 
-- <b>A Simple Quarter-Car Suspension Frequency Domain Analysis</b>
-
 
 <!-- ======================================================== -->
 <h2>:chart_with_downwards_trend: Control Co-Design Projects: </h2>
