@@ -5,7 +5,8 @@
 <!-- ======================================================== -->
 <h2>:car: Vehicle Dynamics Projects: </h2> 
 <!-- ======================================================== -->
-These are some simple vehicle dynamics-related projects that I did in my free time. They can also be used to get started with the concepts in vehicle dynamics.
+NOTE: These are some simple vehicle dynamics-related projects that I did in my free time. These codebases do NOT include any proprietary data or information. All the equations and data are from open-access sources and/or the vehicle dynamics literature. I have tried to reference the sources as much as I can and whenever possible.
+<h3> </h3>
 
 - [Time- and Frequency-Domain Analysis of a Quarter-Car Suspension Model](https://github.com/MoBehtash/Quarter-Car-Suspension)
 
