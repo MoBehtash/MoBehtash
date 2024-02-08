@@ -3,8 +3,9 @@
                       <a href = "https://github.com/MoBehtash"> Dynamic System Design Researcher </a> </h1>
 
 <!-- ======================================================== -->
-<h2>:car: Vehicle Dynamics Projects:</h2>
+<h2>:car: Vehicle Dynamics Projects: </h2> 
 <!-- ======================================================== -->
+These are some simple vehicle dynamics-related projects that I did in my free time. They can also be used to get started with the concepts in vehicle dynamics.
 
 - [Time- and Frequency-Domain Analysis of a Quarter-Car Suspension Model](https://github.com/MoBehtash/Quarter-Car-Suspension)
 
