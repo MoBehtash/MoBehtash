@@ -6,7 +6,7 @@
 <h2>:car: Vehicle Dynamics Projects:</h2>
 <!-- ======================================================== -->
 
-- <b>Time- and Frequency-Domain Analysis of a Quarter-Car Suspension Model</b>
+- [Time- and Frequency-Domain Analysis of a Quarter-Car Suspension Model](https://github.com/MoBehtash/Quarter-Car-Suspension)
 
 
 <!-- ======================================================== -->
