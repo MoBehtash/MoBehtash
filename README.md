@@ -8,7 +8,8 @@
 These are some simple vehicle dynamics-related projects that I did in my free time. These codebases do NOT include any proprietary data or information. All the equations and data are from open-access sources and/or the vehicle dynamics literature. I have tried to reference the sources as much as I can and whenever possible for anyone interested.
 <h3> </h3>
 
-- [Time- and Frequency-Domain Analysis of a Quarter-Car Suspension Model](https://github.com/MoBehtash/Quarter-Car-Suspension)
+- <b> Ride </b>
+  - [Time- and Frequency-Domain Analysis of a Quarter-Car Suspension Model](https://github.com/MoBehtash/Quarter-Car-Suspension)
 
 
 <!-- ======================================================== -->
