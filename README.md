@@ -9,7 +9,7 @@ These are some basic vehicle dynamics-related projects that I did in my free tim
 <h3> </h3>
 
   - [Ride Analysis of a Linear Quarter-Car Suspension Model](https://github.com/MoBehtash/Quarter-Car-Suspension)
-  - [Handling Analysis of a Linear Single-Track Vehicle Model]()
+  - [Handling Analysis of a Linear Single-Track Vehicle Model](https://github.com/MoBehtash/Linear-Single-Track)
 
 
 <!-- ======================================================== -->
