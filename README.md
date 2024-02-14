@@ -10,6 +10,7 @@ These are some basic vehicle dynamics-related projects that I did in my free tim
 - <b> Ride </b>
 
   - [Time- and Frequency-Domain Analysis of a Quarter-Car Suspension Model](https://github.com/MoBehtash/Quarter-Car-Suspension)
+  - [Handling Analysis of a Linear Single-Track Vehicle Model]()
 
 
 <!-- ======================================================== -->
