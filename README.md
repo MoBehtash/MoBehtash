@@ -5,7 +5,7 @@
 <!-- ======================================================== -->
 <h2>:car: Vehicle Dynamics Projects: </h2> 
 <!-- ======================================================== -->
-These are some basic vehicle dynamics-related projects that I did in my free time. These codebases do NOT include any proprietary data or information. All the equations and data are from open-access sources and/or the vehicle dynamics literature. I have tried to reference the sources as much as I can and whenever possible for anyone interested.
+These projects represent my ongoing exploration into vehicle dynamics, as I delve into the foundational principles of this complex field. While the projects themselves may be considered basic, they serve as invaluable tools for comprehending the intricate workings of vehicles and gaining profound insights into fundamental concepts. Each project contributes to my evolving understanding of vehicle dynamics, paving the way for deeper exploration and learning.
 <h3> </h3>
 
   - [Ride Analysis of a Linear Quarter-Car Suspension Model](https://github.com/MoBehtash/linear_quarter_car_analysis)
