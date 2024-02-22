@@ -14,15 +14,6 @@ These projects represent my ongoing exploration into vehicle dynamics, as I delv
 
 
 <!-- ======================================================== -->
-<h2>:chart_with_downwards_trend: Control Co-Design Projects: </h2>
-<!-- ======================================================== -->
-
-- <b>Active Suspension Design and Control Optimization</b>
-
-- <b>An Autonomous Electric Vehicle Design and Control Optimization </b>
-
-
-<!-- ======================================================== -->
 <h2>:books: Select Peer-Reviewed Research Publications: </h2>
 <!-- ======================================================== -->
 These are some of the works of mine that I have published during graduate school and after. The listed publications have strong applications in vehicle dynamics and automotive design. All of my publications (including those not listed here) are in my Google Scholar account, linked below.
